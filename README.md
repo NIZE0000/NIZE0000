@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Anupong Pengsawang</h1>
 <h3 align="left">I'm interesting in web development, dev-ops, machine learning and GNU/linux distribution</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nize0000&show_icons=true&theme=dark&locale=en&layout=compact" alt="nize0000" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nize0000&show_icons=true&theme=dark&locale=en" alt="nize0000" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nize0000&show_icons=true&theme=dark&locale=en" alt="nize0000" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nize0000&show_icons=true&theme=dark&locale=en&layout=compact" alt="nize0000" /></p>
+
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
