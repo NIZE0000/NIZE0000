@@ -1,5 +1,5 @@
 <h1 align="left">Hi</h1>
-<h3 align="left">My name is Nice, a fourth-year student majoring in Computer Science. I'm preparing myself before entering internship and the workforce. I will use this account to store my portfolio. 
+<h3 align="left">I'm Nice, a fourth-year student majoring in Computer Science. I'm preparing myself before entering internship and the workforce. I will use this account to store my portfolio. 
 <br/>Personally, I am interested in web development, dev-ops, machine learning, and GNU/Linux distribution as my main focus during this period.</h3>
 
 <br/>
