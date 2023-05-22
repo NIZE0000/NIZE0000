@@ -1,5 +1,5 @@
-<h1 align="left">Hi</h1>
-<h3 align="left">I'm Nice, a fourth-year student majoring in Computer Science. 
+<h1 align="left" >Hi, I'm Anupong Pengsawang</h1>
+<h3 align="left">A fourth-year student majoring in Computer Science. 
 <br>Now, I'm preparing myself before entering internship and the workforce. 
 <br>I will use this account to store my <a href="https://three-js-portfolio-delta.vercel.app" target="_blank">Portfolio</a>. 
 <br/>Personally, I am interested in web development, dev-ops, machine learning, and GNU/Linux distribution as my main focus during this period.</h3>
