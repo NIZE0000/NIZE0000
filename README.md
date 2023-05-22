@@ -1,12 +1,12 @@
 <h1 align="left">Hi</h1>
-<h3 align="left">I'm Nice, a fourth-year student majoring in Computer Science. I'm preparing myself before entering internship and the workforce. I will use this account to store my portfolio. 
+<h3 align="left">I'm Nice, a fourth-year student majoring in Computer Science. 
+<br>Now, I'm preparing myself before entering internship and the workforce. 
+<br>I will use this account to store my <a href="https://three-js-portfolio-delta.vercel.app" target="_blank">Portfolio</a>. 
 <br/>Personally, I am interested in web development, dev-ops, machine learning, and GNU/Linux distribution as my main focus during this period.</h3>
-
-<br/>
-<!-- <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nize0000&show_icons=true&theme=dark&locale=en" alt="nize0000" /></p>
-
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nize0000&show_icons=true&theme=dark&locale=en&layout=compact" alt="nize0000" /></p> -->
-
+<br>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NIZE0000&show_icons=true&theme=dark&locale=en" alt="NIZE0000" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIZE0000&show_icons=true&theme=dark&locale=en&layout=compact" alt="NIZE0000" /></p> 
+<br>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
