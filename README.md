@@ -1,8 +1,7 @@
 <h1 align="left" >Hi, I'm Anupong Pengsawang</h1>
 <h3 align="left">A fourth-year student majoring in Computer Science. 
-<br>Now, I'm preparing myself before entering internship. 
 <br>I will use this account to store my <a href="https://three-js-portfolio-delta.vercel.app" target="_blank">Portfolio</a>. 
-<br/>Personally, I am interested in web development, dev-ops, machine learning, and GNU/Linux distribution as my main focus during this period.</h3>
+<br/>Personally, I'm interested in web development, dev-ops, machine learning, and GNU/Linux distribution as my main focus during this period.</h3>
 <br>
 <!-- <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NIZE0000&show_icons=true&theme=dark&locale=en" alt="NIZE0000" /></p>
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIZE0000&show_icons=true&theme=dark&locale=en&layout=compact" alt="NIZE0000" /></p>  -->
