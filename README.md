@@ -2,7 +2,7 @@
 
 ## Computer Science | Web Development Enthusiast | Machine Learning Enthusiast
 
-Welcome to my profile! I am a dedicated fourth-year student pursuing a major in Computer Science. This platform serves as a repository for my [portfolio](https://three-js-portfolio-delta.vercel.app), which showcases my work and skills.
+Welcome to my profile! I am a dedicated fourth-year student pursuing a major in Computer Science. I use my github for serves as a repository for my [portfolio](https://three-js-portfolio-delta.vercel.app), which showcases my work and skills.
 
 My areas of interest encompass web development, machine learning, and GNU/Linux distribution. 
 Feel free to connect with me.
